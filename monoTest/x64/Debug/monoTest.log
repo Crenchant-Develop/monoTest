@@ -1,0 +1,4 @@
+﻿  monoTest.cpp
+C:\Users\CSNB\source\repos\monoTest\monoTest\Tests.h(30,1): warning C4311: '형식 캐스트': 'MonoString *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\CSNB\source\repos\monoTest\monoTest\Tests.h(30,1): warning C4302: '형식 캐스트': 'MonoString *'에서 'int'(으)로 잘립니다.
+  monoTest.vcxproj -> C:\Users\CSNB\source\repos\monoTest\x64\Debug\monoTest.exe

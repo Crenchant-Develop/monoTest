@@ -1,0 +1,7 @@
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\bin\Debug\monoTestSharp.exe.config
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\bin\Debug\monoTestSharp.exe
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\bin\Debug\monoTestSharp.pdb
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\obj\Debug\monoTestSharp.csproj.AssemblyReference.cache
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\obj\Debug\monoTestSharp.csproj.CoreCompileInputs.cache
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\obj\Debug\monoTestSharp.exe
+C:\Users\CSNB\source\repos\monoTest\monoTestSharp\obj\Debug\monoTestSharp.pdb
